@@ -2,8 +2,8 @@
 
 Keep this up to date as you go — a few lines per work session is enough. It's much harder to reconstruct at the end.
 
-**Team name:**
-**Startup name:**
+**Ava:**
+**OutfitLoop:**
 **Live site link:**
 
 ---
@@ -11,6 +11,16 @@ Keep this up to date as you go — a few lines per work session is enough. It's 
 ## Work sessions
 
 Copy this block for each session.
+
+### Session — 2026-11-12 — driver: Ava
+
+- **Goal for this session:** Turn the OutfitLoop idea into a polished, responsive fashion-community prototype.
+- **Key prompts we gave Copilot** (paste the important ones):
+  1. “I want to make a website where people can discover outfits by browsing other people's and getting inspiration. They can also buy, sell, and swap when users list clothes, and you can create your own wardrobe by uploading clothing you already own and combining them to make outfits.”
+  2. “Please update in the project log what was done today for the first session.”
+- **What worked:** Built outfit discovery with category filters and saved looks; a searchable buy/swap marketplace; and a personal closet with image uploads, listing options, and an outfit-combination tool. Added responsive styling and fictional sample content. Closet, listings, saved looks, and created outfits persist in the current browser.
+- **What broke, and how we fixed it:** The hero's “Find your outfit” link pointed to a section inside the home view, but navigation initially reset the page to the top. Updated view routing to keep the home view active and scroll to that section.
+- **Committed?** no — not committed.
 
 ### Session — [date] — driver: [first name]
 
